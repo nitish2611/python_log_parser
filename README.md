@@ -22,5 +22,5 @@ vimeo.com returned 33.333333333333336% 5xx errors
    
 
 ##Additional
-  1: 
+  1: vimeo/manifests/init.pp can be utilized to add to configuration management-puppet.
 
