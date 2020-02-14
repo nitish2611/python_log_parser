@@ -7,7 +7,7 @@ Simple python script to parse the logfile and calculate the % of 5xx errors brok
 
 USAGE: python log_parser.py <STARTTIME> <ENDTIME> </PATH/TO/LOGFILE/>
 
-Run python log_parser.py 1493969101.638 1493969101.679 log_sample.txt
+Run ```python log_parser.py 1493969101.638 1493969101.679 log_sample.txt```
 
 Multiple log file input can be provided
 
